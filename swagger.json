@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/athenathsos/swagger-ui-dom-based-xss/main/swagger.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/athenathsos/swagger-ui-dom-based-xss/main/swagger.yaml",
+            "name": "DOM XSS BY athenathsos"
+        }
+    ]
+}
